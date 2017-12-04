@@ -1,0 +1,24 @@
+body {
+  background-color: #2299DD;
+}
+
+a:link {
+  color: green;
+  background-color: yellowgreen;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: red;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: blue;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: black;
+  text-decoration: underline;
+}
